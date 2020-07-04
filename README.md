@@ -4,4 +4,4 @@ projects in python
 Completed - Working \
 Temperature converter: converts Fahrenheit to Celsius \
 Dice simulation: Dice roll in python, 2D cube w/ marking \
-Color to hex: Find hex number to a color; useful CSS tool, path needs to be inputted by user
+Color to hex: Find hex number to a color; useful CSS tool, direct path needs to be input by user
