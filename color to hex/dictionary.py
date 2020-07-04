@@ -9,7 +9,7 @@
 
 ##import and load
 import json
-data = json.load(open('/home/matchstix/Desktop/PyWork/python3_projects/dictionary/data.json'))
+data = json.load(open('INPUT DIRECT PATH'))
 
 #1 & 4
 usrinput = input("Color to Hex ").lower()
