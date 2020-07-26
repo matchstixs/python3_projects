@@ -9,4 +9,3 @@ def ftoc(f) :
 
 ftoc(f)
 
-print(ftoc(f))
